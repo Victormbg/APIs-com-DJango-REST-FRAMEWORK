@@ -20,3 +20,11 @@ senha: adminroot
 # Rodar o servidor DJango
 python manage.py runserver
 
+# Fazer a migração de jogos
+python manage.py makemigrations
+
+# Fazer a migração do model
+python manage.py migrate
+
+# LINK URL CONTINUAR
+https://www.udemy.com/course/construindo-apis-com-django-rest-framework/learn/lecture/16757684#overview
